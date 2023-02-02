@@ -1,0 +1,24 @@
+{
+    "judulapp": "APLIKASI MANAJEMEN SERVIS MOBIL HONDA",
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "database": "bengkel_honda",
+    "style_color": {
+        "qmark": "fg:#673ab7 bold",
+        "question": "",
+        "answer": "fg:#5fb7fb bold",
+        "pointer": "fg:#673ab7 bold",
+        "highlighted": "fg:#673ab7 bold",
+        "selected": "fg:#cc5454",
+        "separator": "fg:#cc5454",
+        "instruction": "",
+        "text": "",
+        "disabled": "fg:#858585 italic"
+    },
+    "alamat_bengkel":{
+        "Sleman": "Ngentak, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+        "Bantul": "Jalan Janti No. 91 Karangjambe, Jaranan, Banguntapan, Bantul, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55198",
+        "Magelang": "Jl. Soekarno Hatta No.9ab, Tidar Sel., Kec. Magelang Sel., Kota Magelang, Jawa Tengah 56125"
+    }
+}
